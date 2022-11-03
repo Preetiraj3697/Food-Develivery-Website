@@ -42,8 +42,8 @@ npm start
 ```
 #### Project Look Like 
 <img src="./public/Assets/Home.png"/>
-<img src="./public/Assets/popular.png"/>
-<img src="./public/Assets/foods.png"/>
-<img src="./public/Assets/foods2.png"/>
-<img src="./public/Assets/cart.png"/>
-<img src="./public/Assets/login.png"/>
+<img src="./public/Assets/Popular.png"/>
+<img src="./public/Assets/Foods.png"/>
+<img src="./public/Assets/Foods2.png"/>
+<img src="./public/Assets/Cart.png"/>
+<img src="./public/Assets/Login.png"/>
