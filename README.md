@@ -40,3 +40,10 @@ npm i
 npm start
 
 ```
+#### Project Look Like 
+<img src="./public/Assets/Home.png"/>
+<img src="./public/Assets/popular.png"/>
+<img src="./public/Assets/foods.png"/>
+<img src="./public/Assets/foods2.png"/>
+<img src="./public/Assets/cart.png"/>
+<img src="./public/Assets/login.png"/>

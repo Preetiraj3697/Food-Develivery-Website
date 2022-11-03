@@ -52,7 +52,7 @@ const Header = () => {
       }
     });
 
-   
+    return () => window.removeEventListener("scroll");
   }, []);
 
   return (
